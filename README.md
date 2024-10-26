@@ -11,7 +11,7 @@ Linux-File-Permissions.
 ## There are three types of owners in Linux .
 
 1. **User** — who create file
-2. **Group** — multiple users and all users of a group have similar permission
+2. **Group** — multiple users and all users of a group have similar permission.
 3. **Others** — Apart from user or group who has access to the file.
 
 ## File Types
