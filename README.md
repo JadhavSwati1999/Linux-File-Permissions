@@ -53,7 +53,7 @@ Linux-File-Permissions.
 
 **‘=’  to overwrite the permission**
 
-## Full Permission
+## Full Permission.
 
 1. directory - 777
 2. file - 666 
