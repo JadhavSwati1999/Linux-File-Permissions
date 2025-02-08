@@ -18,7 +18,7 @@ Linux-File-Permissions.
 
 **There are two types of files** 
 
-### 1. User Defined
+### 1. User Defined.
 
 ### 2. System Defined
 
